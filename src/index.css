@@ -77,3 +77,10 @@ input[type=text]:not(.browser-default):focus:not([readonly]) + label {
   text-align: center!important;
   color: #FFF!important;
 }
+
+.input-submit input{
+  width: 100%;
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+

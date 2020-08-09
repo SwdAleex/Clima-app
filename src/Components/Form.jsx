@@ -63,7 +63,7 @@ const Form = ({selection, setSelection, setQuerySent}) => {
         </select>
         <label htmlFor='country'>País:</label>
       </div>
-      <input className="waves-effect waves-light btn-large btn-block yellow accent-4" type='submit' value="Enviar"/>
+      <input className="input-submit waves-effect waves-light btn-large btn-block yellow accent-4" type='submit' value="Enviar"/>
     </form>
   );
 };
