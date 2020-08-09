@@ -84,3 +84,7 @@ input[type=text]:not(.browser-default):focus:not([readonly]) + label {
   padding-bottom: 16px;
 }
 
+.input-submit input:hover{
+  cursor: pointer;
+}
+
